@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ran Zhuo"
+title                    : "Lantian Zhu"
 title_separator          : "-"
-name                     : &name "Ran Zhuo"
+name                     : &name "Lantian Zhu"
 description              : &description "Academic website"
-url                      : https://ranzhuo17.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lantianZhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ranzhuo17/ranzhuo17.github.io"
+repository               : "lantianZhu/lantianzhu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ran Zhuo"
+  name             : "Lantian Zhu"
   avatar           : "profile_pic.jpg"
-  bio              : "PhD Candidate in Business Economics, Harvard University"
-  location         : 
+  bio              : "PhD Candidate in Business School, Nanjing University"
+  location         : "Nanjing,Jiangsu,China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1IIm5DEAAAAJ&hl=en"
-  email            : "rzhuo@g.harvard.edu"
+  email            : "zhulantian93@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
