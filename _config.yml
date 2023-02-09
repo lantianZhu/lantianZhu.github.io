@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lantian Zhu"
   avatar           : "profile_pic.jpg"
-  bio              : "PhD Candidate in Business School, Nanjing University"
+  bio              : "Econ PhD Candidate in Business School, Nanjing University"
   location         : "Nanjing,Jiangsu,China"
   employer         :
   pubmed           : 
@@ -90,7 +90,7 @@ author:
   email            : "zhulantian93@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
+  Chinese website  : "https://zlt93.mysxl.cn/"
   codepen          :
   dribbble         :
   flickr           :
