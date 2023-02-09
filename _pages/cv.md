@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Here is a [link]( https://ranzhuo17.github.io/files/RanZhuo_CV_current.pdf) to my CV.
+Here is a [link]( https://ranzhuo17.github.io/files/Zhu_s_CV_20230209.pdf) to my CV.
