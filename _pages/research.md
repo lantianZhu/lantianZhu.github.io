@@ -8,11 +8,11 @@ permalink: /research/
 
 <!-- Google Tag Manager (noscript) -->
 <!-- End Google Tag Manager (noscript) -->
-<font face='Times New Roman'>
+
 # <center> Working Papers </center>
 - - -
 
-**Exploit or Explore? An Empirical Study of Resource Allocation in Scientific Labs.** 
+<font face='Times New Roman'>**Exploit or Explore? An Empirical Study of Resource Allocation in Scientific Labs.** </font>
 2022.
 <br/>
 <small>[ <a href="#/" onclick="visib('ee')">Abstract</a> | [Paper][ee_paper] | [Online Appendices][ee_app] ] </small>
@@ -110,5 +110,5 @@ It has long been understood in theory that price-match guarantees can be anticom
   }
 }
 </script>
-</font>
+
 [//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
