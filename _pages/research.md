@@ -8,7 +8,7 @@ permalink: /research/
 
 <!-- Google Tag Manager (noscript) -->
 <!-- End Google Tag Manager (noscript) -->
-
+<font face='Times New Roman'>
 # <center> Working Papers </center>
 - - -
 
@@ -110,5 +110,5 @@ It has long been understood in theory that price-match guarantees can be anticom
   }
 }
 </script>
-
+</font>
 [//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
