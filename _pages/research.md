@@ -8,13 +8,12 @@ permalink: /research/
 
 <!-- Google Tag Manager (noscript) -->
 <!-- End Google Tag Manager (noscript) -->
-
+<font family='Times New Roman'> 
 # <center> Working Papers </center>
 - - -
 
-<font face='Times New Roman'>
-**Exploit or Explore? An Empirical Study of Resource Allocation in Scientific Labs.** 
-</font>
+
+**The resilience and poverty gap.**
 2022.
 <br/>
 <small>[ <a href="#/" onclick="visib('ee')">Abstract</a> | [Paper][ee_paper] | [Online Appendices][ee_app] ] </small>
@@ -25,7 +24,7 @@ versus the exploration of new ones, that is whether they pursued safe projects t
 </small><br><br/></div>
 
 [ee_paper]: https://ranzhuo17.github.io/files/RanZhuo_JMP_main_current.pdf
-[ee_app]:https://ranzhuo17.github.io/files/RanZhuo_JMP_appendices_current.pdf
+
 
 
 **Examining Selection Pressures in the Publication Process Through the Lens of Sniff Tests** 
