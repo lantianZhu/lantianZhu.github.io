@@ -12,7 +12,9 @@ permalink: /research/
 # <center> Working Papers </center>
 - - -
 
-<font face='Times New Roman'>**Exploit or Explore? An Empirical Study of Resource Allocation in Scientific Labs.** </font>
+<font face='Times New Roman'>
+**Exploit or Explore? An Empirical Study of Resource Allocation in Scientific Labs.** 
+</font>
 2022.
 <br/>
 <small>[ <a href="#/" onclick="visib('ee')">Abstract</a> | [Paper][ee_paper] | [Online Appendices][ee_app] ] </small>
