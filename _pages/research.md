@@ -8,7 +8,7 @@ permalink: /research/
 
 <!-- Google Tag Manager (noscript) -->
 <!-- End Google Tag Manager (noscript) -->
-<font family='Times New Roman'> 
+
 # <center> Working Papers </center>
 - - -
 
@@ -23,12 +23,12 @@ Allocating innovation resources to their most productive uses is a challenge for
 versus the exploration of new ones, that is whether they pursued safe projects to maximize short-term productivity or undertook high-variance projects to acquire information and improve long-term productivity. To recover how these labs made the exploitation-exploration tradeoff, I estimate a dynamic model of decision-making, assuming the labs approximated the value of exploration with a simple Upper Confidence Bound (UCB) index. The type of index is well-studied in theory and well-used in practice but has not been applied to estimation of empirical decision models. The index model captures the labs’ decision-making well. Estimates of its free parameters suggest that the labs explored extensively. Counterfactual simulations show that, had the labs not explored, their output quantity would have decreased by 51%, and their citations would have decreased by 57%.
 </small><br><br/></div>
 
-[ee_paper]: https://ranzhuo17.github.io/files/RanZhuo_JMP_main_current.pdf
 
 
 
-**Examining Selection Pressures in the Publication Process Through the Lens of Sniff Tests** 
-(with Christopher Snyder). 2022.
+
+**** 
+(with ). 2022.
 *Revised and Resubmitted, Review of Economics and Statistics.*
 <br/>
 <small>[ <a href="#/" onclick="visib('bias')">Abstract</a> ] </small>
@@ -41,8 +41,8 @@ The increasing demand for empirical rigor has led to the growing use of auxiliar
 # <center> Work in Progress </center>
 - - -
 
-**Demand Fluctuations and Supply Coordination in Semiconductor Manufacturing** 
-(with Audrey Tiew).
+**Market segmentation and Chinese debt** 
+(with Jingyi Hou).
 <br/>
 <small>[ <a href="#/" onclick="visib('semi')">Abstract</a> ] </small>
 
@@ -50,8 +50,8 @@ The increasing demand for empirical rigor has led to the growing use of auxiliar
 We study how supply capacity coordination can reduce social inefficiency from demand uncertainty and market power in the context of the semiconductor manufacturing industry. Market power generates misalignment between firm profit-maximizing capacity investments and welfare-maximizing capacity investments. To quantify the extent of this inefficiency and explore how various forms of supply coordination can mitigate it, we estimate a static structural model of semiconductor demand and a dynamic model of supply-side investment in technology and capacity. The data we have assembled to perform this exercise are, to our knowledge, the most comprehensive data on the industry in academic research. We obtain: (i) detailed proprietary buyer-level product demand data, covering around 20% of world orders, from 2004 to 2015, and (ii) proprietary world-wide, plant-level technology and capacity investment in semiconductor manufacturing plants from 1995 to 2015. We compare in counterfactual scenarios the relative efficacy of various forms of supply coordination (e.g., social planner, monopoly manufacturer, coordination on technology and capacity investment but competition in product market) in reducing inefficiency.
 </small><br><br/></div>
 
-**Upgraded Software and Embedded Improvements: Using Spiders to Track Bugs on the Web** 
-(with Raviv Murciano-Goroff and Shane Greenstein).
+**The resilience and poverty gap.** 
+
 <br/>
 <small>[ <a href="#/" onclick="visib('oss2')">Abstract</a> ] </small>
 
@@ -62,42 +62,32 @@ Our prior research (Murciano-Goroff, Zhuo, Greenstein, 2021) documented webserve
 # <center> Publications </center>
 - - -
 
-**Hidden Software and Veiled Value Creation: Illustrations from Server Software Usage** 
-(with Raviv Murciano-Goroff and Shane Greenstein). 2021.
-*Research Policy 50 (9): 104333.*
+**How the market segmentation affect the regional economic resilience** 
+(with YangGe). 2023.
+*Accepted,Statistics & Decesions*
 <br/>
 <small>[ <a href="#/" onclick="visib('hs')">Abstract</a> | [Publisher's Version][hs_pub] ] </small>
 
-<div id="hs" style="display: none; text-align: justify; line-height: 1.2" ><small>
-How do you measure the value of a commodity that transacts at a price of zero from an economic standpoint? This study examines the potential for and extent of omission and misattribution in standard approaches to economic accounting with regards to open source software, an unpriced commodity in the digital economy. The study is the first to follow usage and upgrading of unpriced software over a long period of time. It finds evidence that software updates mislead analyses of sources of firm productivity and identifies several mechanisms that create issues for mismeasurement. To illustrate these mechanisms, this study closely examines one asset that plays a critical role in the digital economic activity, web server software. We analyze the largest dataset ever compiled on web server use in the United States and link it to disaggregated information on over 200,000 medium to large organizations in the United States between 2001 and 2018. In our sample, we find that the omission of economic value created by web server software is substantial and that this omission indicates there is over $4.5 billion dollars of mismeasurement of server software across organizations in the United States. This mismeasurement varies by organization age, geography, industry and size. We also find that dynamic behavior, such as improvements of server technology and entry of new products, further exacerbates economic mismeasurement. Instead of requiring that parallel trends holds exactly, we impose restrictions on how different the post-treatment violations of parallel trends can be from the pre-treatment differences in trends ("pre-trends"). The causal parameter of interest is partially identified under these restrictions. We introduce two approaches that guarantee uniformly valid inference under the imposed restrictions, and we derive novel results showing that they have desirable power properties in our context. We illustrate how economic knowledge can inform the restrictions on the possible violations of parallel trends in two economic applications. We also highlight how our approach can be used to conduct sensitivity analyses showing what causal conclusions can be drawn under various restrictions on the possible violations of the parallel trends assumption.
+<div id="hs" fontface="Times New Roman" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Strengthening economic resilience and ensuring steady and sustained economic development are important goals for China as it enters a new stage of development. Building a unified market and breaking down the regional market segmentation is the internal requirement of building a new development stage. This paper theoretically analyzes the internal logic of the impact of market segmentation on regional economic resilience, and empirically tests it using China's provincial panel data from 2005 to 2019. It is found that market segmentation has a significant adverse effect on economic resilience, which is still significant after a series of robustness tests excluding the endogeneity problem. Mechanism test shows that regional market segmentation will affect economic resilience by inhibiting manufacturing scale and regional innovation capacity, and market segmentation will also make infrastructure investment tend to be inefficient, which will affect economic resilience. The negative effect of market segmentation on economic resilience is strengthened in regions with a high degree of private and individual enterprise development; With the transformation and upgrading of industrial structure, the destruction of market function caused by market segmentation will intensify the adverse impact on economic resilience. The development of digital economy is an effective way to alleviate the negative impact of market segmentation.
 </small><br><br/></div>
 
-[hs_pub]: https://www-sciencedirect-com.ezp-prod1.hul.harvard.edu/science/article/pii/S0048733321001323?dgcid=coauthor
 
-**The Impact of the General Data Protection Regulation on Internet Interconnection** 
-(with Bradley Huffaker, kc claffy, and Shane Greenstein). 2021.
-*Telecommunications Policy 45 (2): 102083.*
+
+**Market Determinism, Government Transformation and Government Economics with Chinese Characteristics** 
+(with Jiangping Zhang, Qingyuan Zhu). 2023.
+*Accepted,Qinghai Social Science*
 <br/>
 <small>[ <a href="#/" onclick="visib('gdpr')">Abstract</a> | [Publisher's Version][gdpr_pub] ] </small>
 
-<div id="gdpr" style="display: none; text-align: justify; line-height: 1.2" ><small>
-The Internet comprises thousands of independently operated networks, interconnected using bilaterally negotiated data exchange agreements. The European Union (EU)'s General Data Protection Regulation (GDPR) imposes strict restrictions on handling of personal data of European Economic Area (EEA) residents. A close examination of the text of the law suggests significant cost to application firms. Available empirical evidence confirms reduction in data usage in the EEA relative to other markets. We investigate whether this decline in derived demand for data exchange impacts EEA networks' decisions to interconnect relative to those of non-EEA OECD networks. Our data consists of a large sample of interconnection agreements between networks globally in 2015–2019. All evidence estimates zero effects: the number of observed agreements, the inferred agreement types, and the number of observed IP-address-level interconnection points per agreement. We also find economically small effects of the GDPR on the entry and the observed number of customers of networks. We conclude there is no visible short run effects of the GDPR on these measures at the internet layer.
+<div id="gdpr" fontface="Times New Roman" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper discusses the revolutionary significance of giving full play to the decisive role of the market in resource allocation and the role of the government in perfecting the socialist market economy system with Chinese characteristics pointed out in the 20th National Congress of the Communist Party of China; the core issue of "market determinism" is the relationship between the government and the market, and the reorientation of government functions and the transformation of government are the core of contemporary China's economic system reform "Market determinism" does not weaken government functions, but puts forward higher requirements for government functions. It is an urgent academic task to construct government economics with Chinese characteristics. The paper also puts forward corresponding suggestions on the research content, discipline construction and scientific research cooperation of government economics with Chinese characteristics.
 </small><br><br/></div>
 
-[gdpr_pub]: https://www-sciencedirect-com.ezp-prod1.hul.harvard.edu/science/article/pii/S0308596120301737?dgcid=author
 
 
-**Do Low‐Price Guarantees Guarantee Low Prices? Evidence from Competition between Amazon and Big‐Box Stores.** 
-2017.
-*Journal of Industrial Economics 65 (4): 719-738.*
-<br/>
-<small>[ <a href="#/" onclick="visib('pm')">Abstract</a> | [Publisher's Version][pm_pub] ] </small>
 
-<div id="pm" style="display: none; text-align: justify; line-height: 1.2" ><small>
-It has long been understood in theory that price-match guarantees can be anticompetitive, but to date, scant empirical evidence is available outside of some narrow markets. This paper broadens the scope of empirical analysis, studying a wide range of products sold on a national online market. Using an algorithm that extracts data from charts, I obtain a novel source of data from online price trackers. I examine prices of goods sold on Amazon before and after two big-box stores (Target and Best Buy) announced a guarantee to match Amazon's prices. Employing both difference-in-difference and regression-discontinuity approaches, I robustly estimate a positive causal effect of six percentage points. The effect was heterogeneous, with larger price increases for initially lower-priced items. My results support anticompetitive theories which predict price increases for Amazon, a firm that did not adopt the guarantee, and are consistent with plausible mechanisms for the heterogeneous impact.
-</small><br><br/></div>
 
-[pm_pub]: https://onlinelibrary.wiley.com/doi/10.1111/joie.12154
 
 
 [//]: This java script is the button to show abstract
