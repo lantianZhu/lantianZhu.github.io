@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 I’m currently a PhD candidate and expected to get my Econ-PhD from Nanjing University in June 2024. My academic performance is excellent and
-I kept winning academic scholarships for many years. I naturally love exploring the world and doing research. I have a wide
+I kept winning academic scholarships for many years. I naturally love exploring the world and doing research. I have  wide
 vision and my research interests focus on China economic issues,urban and recessions . I have already published a few dissertations
 for now as I list out in my resume.
 I’m very skilled at economic analysis, data science. More importantly, I get the ability to think independently, which
@@ -18,5 +18,5 @@ I’m ambitious and determined to be extraordinary. I know what it takes and I�
 forward to talk to you face to face.
 <br>
 <br>
-Download my <a href="https://www.dropbox.com/s/wa3agifqoxwd77u/soto-cv.pdf?dl=0" download="Soto, Paul- CV">CV</a><br>
+Download my <a href="https://lantianzhu.github.io/files/Zhu_s_CV_20230209.pdf" download="LantianZhu- CV">CV</a><br>
 <br>
